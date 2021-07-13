@@ -11,7 +11,7 @@ results = soup.find(id="ResultsContainer")
 job_elements = results.find_all("div", class_="card-content")
 
 
-f = open("result.html", "w")
+f = open("result2.html", "w")
 
 for job_element in job_elements:
     title_element = job_element.find("h2", class_="title")
@@ -41,7 +41,7 @@ python_job_elements = [
     h2_element.parent.parent.parent for h2_element in python_job
 ]
 
-f = open("python.html", "w")
+f = open("result2.html", "w")
 
 i = 0
 for job_element in python_job_elements:
@@ -52,7 +52,7 @@ for job_element in python_job_elements:
     # link_apply       = job_element.find_all("a", string = lambda text: "apply" in text.lower())
     link_apply       = job_element.find_all("a")[1]["href"]
 
-    f.write(f"ID: {i}")
+    f.write(f"ID:{i}")
     f.write("\n")
     f.write(str(title_element.text))
     f.write("\n")
