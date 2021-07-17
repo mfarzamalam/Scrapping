@@ -1,4 +1,4 @@
 # Following are the resources i took to learn scrapping:
 
 1) https://realpython.com/beautiful-soup-web-scraper-python/
-2)  
+2) https://www.crummy.com/software/BeautifulSoup/bs4/doc/
