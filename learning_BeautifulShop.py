@@ -172,4 +172,51 @@ def return_tag_with_strings(tag):
 
 for tag in soup.find_all(return_tag_with_strings):
     result = str(tag.name)+"\n"
-    output.write(str(result))
+
+# find all the tags with href
+result = soup.find_all(href=True)
+
+# using dictionary to find the attr in tags
+result = soup.find_all(attrs={'name':'Elsie'})
+
+# search with class
+result = soup.find_all("a", class_="sister")
+
+def has_six_character(styling):
+    return styling is not None and len(styling) == 6
+
+result = soup.find_all(class_=has_six_character)
+result = soup.select("sister3.sister2")
+
+# search with strings
+result = soup.find_all(string="Elsie")
+result = soup.find_all(string=re.compile("Dormouse"))
+result = soup.find_all("a", string=re.compile("Lacie"))
+
+# Limit the results
+result = soup.find_all("a", limit=2)
+
+# find parents of first generation and upwards
+result = soup.find(string="Lacie").find_parent().find_parent()
+result = soup.find(string="Lacie").parent.parent
+
+# find children of first generation and downwords
+result = soup.a.find_next_siblings()
+result = soup.find("a", id="link3").find_previous_siblings()
+link   = soup.a
+for tag in link.next_siblings:
+    result = str(tag)+"\n"
+
+# find single and all the elements next
+result = soup.a.find_all_next()
+result = soup.a.find_all_next(string=True)
+result = soup.a.find_next()
+result = soup.a.find_next(string=True)
+result = soup.a.find_next("p")
+
+result = soup.a.find_all_previous()
+result = soup.a.find_all_previous(string=True)
+result = soup.a.find_previous()
+result = soup.a.find_previous(string=True)
+result = soup.find("a", id="link3").find_all_previous("p")
+output.write(str(result))
