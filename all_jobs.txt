@@ -1,0 +1,1911 @@
+(1)URl: https://remote.co//job/software-developer-backend/
+Title: Software Developer, Backend at Tutuka
+Posted: Posted 4 hours ago
+Job-Type:  Remote
+
+Responsiblities:
+
+Apply-Here: https://tutuka.teamtailor.com/jobs/1159413-software-developer-backend?promotion=239977-trackable-share-link-softwaredeveloper_findwork-dev
+
+
+
+(2)URl: https://remote.co//job/senior-full-stack-engineer-29/
+Title: Senior Full Stack Engineer at Akraya
+Posted: Posted 16 hours ago
+Job-Type:  Remote
+
+Responsiblities:
+1-This position will be remote, manager is open to non-local candidates. It is highly visible critical project. Please submit highly engaged and interested candidates.
+2-Will help design and development of cross-functional, multi-platform application systems. Writing great quality code with a drive for automated testing and validation based on the You Build You Own (YBYO) model. Perform complex engineering activities for performance tuning, monitoring, deployment and production support. Research, influence and implement vendor dependency to simplify the architecture.
+3-Implement, maintain and update CI/CD pipelines on a cloud environment. Work with business partners, architects and other groups to identify technical and functional needs of systems based on priority.
+4-Collaborate with multiple, enterprise-wide distributed performing teams to deliver new capabilities in business applications. Design and develop APIs for Omni-channel clients.
+5-Minimum of 6+ years of software development experience And Minimum of 4+ years of experience: Java, .NET, Python And Minimum of 4+ years experience with databases and data modeling / design (SQL and NoSQL) And Minimum of 3+ years coordinating team efforts in a project or operations environment.
+6-Minimum of 2 years in full stack development for cloud solutions (Azure or AWS) – Azure preferred 8+ years of experience in JavaScript development frameworks and tooling: Angular, React, VueJS, & Gulp, Grunt, Yarn, etc.
+7-8+ years of experience managing software development projects through complete release cycles 4+ years of experience in big data and event streaming technologies: Spark, Kafka, etc. 4+ years of experience leading software engineering teams 2+ years of experience in cloud technologies: Azure(big plus), AWS, OpenStack, etc.
+8-2+ years of experience with container and orchestration: Docker, Kubernetes, etc. 2+ years of experience in build and CICD technologies: GitHub, BitBucket, Azure DevOps, Maven, Jenkins, Nexus or Sonar 2+ years of Scaled agile experience 4+ years of experience in quality assurance technologies: ATDD, Selenium, Cucumber, JUnit, NUnit, SoapUI or Postman 4+ years of experience in Unix Shell scripting Certified in .Net, Java, Spring or cloud technologies Exposure of data management methodologies.
+9-Experience with serverless architectures and computing Preferably 2+ UI/UX development & design systems: CSS, Web Components, Less, Sass
+
+Requirements:
+
+Apply-Here: https://jobs.akraya.com/jb/Senior-Full-Stack-Engineer-21-04100-Jobs-in-Los-Angeles-CA/6223409
+
+
+
+(3)URl: https://remote.co//job/backend-developer-ruby-on-rails/
+Title: Backend Developer – Ruby on Rails at Storyblok
+Posted: Posted 17 hours ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Build a modern api only based applications using Ruby
+2-Optimize queries with Postgres
+3-Improve the performance of our api
+
+Requirements:
+1-Experience developing apis with Ruby (on Rails)
+2-Portfolio of relevant experience
+3-Experience with Postgres, Amazon AWS
+
+Apply-Here: https://jobs.smartrecruiters.com/Storyblok/743999750999520-backend-developer-ruby-on-rails-
+
+
+
+(4)URl: https://remote.co//job/senior-ios-sdk-architect/
+Title: Senior iOS SDK Architect at Stream
+Posted: Posted 1 day ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Knowledge of CoreData
+2-Experience with developing SDK libraries or maintaining open-source projects
+3-Familiarity with reactive patterns, experience with RxSwift or Combine
+4-Experience with Fastlane and CI/CD best practices
+
+Requirements:
+1-A team of exceptional engineers
+2-The chance to work on OSS projects
+3-A competitive salary
+4-Company equity
+5-A pension scheme
+6-A generous Learning and Development budget
+7-28 days of paid time-off
+8-Commute expenses to Amsterdam covered or option to use a company bike within the city
+9-Gym membership of choice covered
+10-MacBook Pro or another development setup
+11-Healthy team lunches and plenty of snacks
+12-A generous relocation package
+13-An office in the heart of Amsterdam
+14-The opportunity to attend or present to global conferences and meetups
+15-The possibility to visit our office in Boulder, CO
+
+Apply-Here: https://gstrm.io/2VVYJk7
+
+
+
+(5)URl: https://remote.co//job/backend-software-engineer-node-js-europe/
+Title: Backend Software Engineer – Node.js – Europe at SpotMe
+Posted: Posted 1 day ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Define and develop new services in node.js following the CLEAN principles.
+2-Work in cross-team projects on new & improving existing features.
+3-Participate in brainstorming, specification, and design sessions.
+4-Maintain documentation, samples & best practices up to the highest standards.
+5-Build and enhance our internal and external API endpoints
+6-Help improve our code quality by writing unit tests and performing code reviews
+7-Define new product architectures and design patterns as needed.
+
+Requirements:
+1-Bachelor’s or master’s degree in computer science, Information Systems, or equivalent.
+2-3-4 years of experience in a similar position for a SaaS company.
+3-Native JavaScript speaker
+4-Extensive experience with Node.js
+5-Field experience with Express.js or any other Node.js HTTP framework
+6-Strong database experience, SQL & No-SQL.
+7-Demonstrated success in designing and building complex web applications.
+8-Proven experience in building highly scalable web applications
+9-Proficient understanding of OWASP security principles
+10-Understanding and practical experience in configuring NGINX is an asset.
+11-Strong analytical, communication, and collaboration skills.
+12-Proactive, independent, completes tasks down to resolution.
+13-Excellent English is a must – both written and verbal
+
+Apply-Here: https://spotme.com/jobs/?gh_jid=4613662003&gh_src=59e4b38d3us
+
+
+
+(6)URl: https://remote.co//job/front-end-developer-71/
+Title: Front End Developer at PadSplit
+Posted: Posted 2 days ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Create engaging, high-impact marketing web & mobile pages for our website and blog to increase conversions
+2-Build ad-hoc landing pages for our performance marketing campaigns
+3-Design and A/B test landing pages and maintain the consistency of our brand in our web design
+4-Partner with the Product Design team and the Front-End Engineering team to learn about tools, processes, and best practices to successfully create web design
+5-Perform day-to-day email production tasks, including development, scheduling, QA, debugging, and monitoring of transactional email campaigns
+6-Collaborate with product managers to build responsive email campaigns according to unique product specifications and requirements
+7-Ensure consistent design and messaging across all transactional emails by working with product managers and design team
+8-Apply basic knowledge of email analytics to launch split tests, validate results and create email benchmarking and trends.
+
+Requirements:
+1-3+ years of front end development experience and proficiency in HTML & CSS
+2-Experience in developing responsive emails using HTML and CSS
+3-Strong desire for Litmus or EmailonAcid experience
+4-In-depth understanding of mobile and web landing page designs, and user experience standards
+5-Strong experience creating wireframes, storyboards, user flows, and process flows
+6-Can help craft A/B tests and multivariate experiments, learn from experiment results, and adapt to changing situations.
+7-Ability to prioritize multiple projects and collaborate in a fast-moving environment
+8-Strong verbal and written communication skills, with an ability to present and communicate new ideas and concepts
+9-Strong interpersonal skills and willingness to communicate with stakeholders within the organization.
+10-Thrives in a fluid, fast-paced and results-oriented environment; able to adapt to changing business needs and influence decision making across all levels of the organization
+11-Bachelor’s degree in relevant studies
+
+Apply-Here: https://boards.greenhouse.io/padsplit/jobs/4440098003
+
+
+
+(7)URl: https://remote.co//job/lead-software-developer-2/
+Title: Lead Software Developer at SafeAuto
+Posted: Posted 2 days ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Be a part of a collaborative development environment with both build and run responsibilities
+2-Help the team quickly identify and solve challenges and blockers
+3-Participate in the analysis and implementation of new solutions
+4-Develop clean, standards based modern code
+5-Work with team members to ensue tasks are completed on schedule, conduct code reviews, maintain code quality and troubleshoot defects
+6-Enforce coding standards that support the organization’s architectural roadmap/strategy
+7-Evaluate team processes and find ways to improve
+8-Support all aspects of testing
+9-Train, coach, and mentor team members and peers
+10-Conduct Code Reviews for developers
+11-Conduct technical reviews for system integrators
+12-Participate and/or lead estimating sessions
+13-Other, related duties, as assigned
+
+Requirements:
+1-Experience with the following technologies: C#; .Net framework (4.5 and above), AngularJS or Angular 4 and above, SQL Server or Oracle (DB2 experience preferred), Azure DevOps, VSTS, Xamarin, Entity Framework, Web API/Rest API
+2-Experience with WCF Services
+3-Solid understanding of and experience working in an Agile environment
+4-Prior experience in a leadership position
+5-This position requires the ability to function effectively with only minimal supervision.
+6-Work closely with management to plan and prioritize team backlog items
+7-The ability to work and thrive in a collaborative development environment
+8-Proven critical thinking and creative problem-solving skills
+9-Experience working with an onshore/offshore model
+10-Experience working in a run team environment with build and production support responsibilities
+11-Strong verbal and written communication skills
+12-Proven working experience in web application development
+13-Knowledge of browser constraints and providing solutions to the constraints of older browsers
+14-Experience with version control systems
+15-Experience implementing quality control software, such as SonarQube
+
+Apply-Here: https://jobs.lever.co/safeauto/892d67ab-60fd-4ec8-a6a5-4b4278aac360
+
+
+
+(8)URl: https://remote.co//job/senior-software-engineer-172/
+Title: Senior Software Engineer at Automation Anywhere
+Posted: Posted 2 days ago
+Job-Type:  Remote
+
+Responsiblities:
+1-S. Computer Science – or other relevant degree.
+2-3+ years’ experience in designing software in a fast-paced environment.
+3-Strong knowledge of Java, building highly scalable server components on Windows and Linux Systems
+4-Strong knowledge and experience in building for Cloud Platforms (like AWS, and Google Cloud Platform).
+5-Knowledge windows systems experience utilizing COM, and/ or Hooks
+6-Experience working with Active MQ and UI Automation development environments.
+7-Must have experience in working with version control system like GIT, SVN etc. and build tools like Gradle and Maven, with continuous integration and delivery.
+8-Good command over Data Structures especially XML, JSON operations and processing technologies.
+9-Experience with Docker and AWS services – VPC, EC2, IAM, CloudFormation, S3, Route53, etc..
+10-Hands on in OOP, Design Patterns, TDD, Knowledge of Serialization/De-serialization.
+11-Strong experience understanding in Databases.
+12-Experience in using Windows or Linux API desirable.
+
+Requirements:
+1-Ability and willingness to work alone in a self-directed and matured manner.
+2-Excellent troubleshooting and debugging abilities for web applications and ability to work under pressure.
+3-Strong oral and written communication, with the ability to adapt to the targeted audience.
+
+Apply-Here: https://jobs.jobvite.com/careers/automationanywhere/job/oxaegfwV?__jvst=Direct%20Inquiry%20-%20Career%20Site
+
+
+
+(9)URl: https://remote.co//job/senior-devops-backend-engineer/
+Title: Senior Devops/BackEnd Engineer at Nodle
+Posted: Posted 2 days ago
+Job-Type:  Remote
+
+Responsiblities:
+1-4+ years of software engineering experience
+2-Strong programming knowledge with Golang/Python.
+3-Experience with cloud service providers such as GCP or AWS (Compute Engine, Cloud PubSub, CloudBuild, etc.), Experience with Elastic Search is a plus!
+4-Proficient Knowledge of relational and non-relational database (PostgreSQL, Redis, BigTable)
+5-Experience with Docker and Kubernetes
+6-Experience with Infrastructure as Code tooling
+7-Successful track record of developing middleware solutions, with a strong focus on code quality, unit testing, integration testing, code quality analysis tools and API documentation.
+8-Experience with Java/Kotlin is a plus.
+
+Requirements:
+
+Apply-Here: https://nodle.breezy.hr/p/30bd113f64c7-senior-devops-backend-engineer?source=remoteco
+
+
+
+(10)URl: https://remote.co//job/python-developer-11/
+Title: Python Developer at Scopic Software
+Posted: Posted 3 days ago
+Job-Type:  Remote
+
+Responsiblities:
+1-2+ years of professional software development experience
+2-Strong Python programming skills
+3-Expertise in Django or similar framework (e.g. Flask)
+4-JavaScript programming skills, including at least one JavaScript framework (e.g. React, Angular, or Vue.js)
+5-Database skills including schemas and ORMs
+6-General programming best practices, including proper use of Git
+
+Requirements:
+1-Good written and spoken English
+2-Bachelor’s degree or higher
+3-Stable internet connection and home computer
+4-Dedication and discipline to work remotely
+
+Apply-Here: https://scopicsoftware.recruiterbox.com/jobs/fk0u8ez?source=FlexJobs
+
+
+
+(11)URl: https://remote.co//job/senior-infrastructure-engineer-4/
+Title: Senior Infrastructure Engineer at Sight Machine
+Posted: Posted 6 days ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Employing DevOps principles, provide technical operational support for all customers, internal and external
+2-Design new, and maintain existing, build, and deployment pipelines
+3-Design and code appropriate tools to support our internal platforms and systems
+4-Maintain our cloud-based services and infrastructure platforms on GCP and Azure, leveraging Kubernetes
+5-Participate in our on-call support schedule
+6-Proactively pursue opportunities to improve stability, cost containment, and security in a cost-efficient manner
+
+Requirements:
+1-You embody the Lencioni Principles of Hungry, Humble, Smart
+2-Depth of understanding and experience in an Infrastructure-as-Code ecosystem
+3-Strong opinions about how balanced with a willingness to listen, learn and compromise
+4-Quality is driven in all that you do
+5-Strong Linux Fundamentals
+6-Expertise in Kubernetes
+7-Familiarity across 3rd party hosting ecosystems, especially GCP and Azure
+8-You thrive in a fast-paced startup environment and you’re passionate about what you do
+9-You can work independently but also enjoy the collective and collaborative aspects of a team
+10-You value clear communication and you’re empathetic and respectful of others
+
+Apply-Here: https://sightmachine.rippling-ats.com/job/275678/senior-infrastructure-engineer?s=flexjobs
+
+
+
+(12)URl: https://remote.co//job/software-engineer-frontend-7/
+Title: Software Engineer, Frontend at Welcome, Inc.
+Posted: Posted 1 week ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Being part of an inclusive, collaborative team that embraces healthy discussions and supports each other in their goals.
+2-Architecting, designing, implementing, testing, and delivering robust and delightful products, continuing to keep the Welcome experience best-in-class.
+3-Mastering our development process, culture, and code base, then improving it. Continually leaving each of these in a better state than when you found.
+4-Working closely with our design team to understand the correct trade-offs and fully execute the UI/UX vision for our applications.
+
+Requirements:
+1-3+ years of professional software development experience
+2-Deep understanding of web technologies, such as JavaScript, CSS, HTML5, and JSON. Our frontend is built in React.js and Redux
+3-Excellent written and verbal communication skills
+
+Apply-Here: https://jobs.lever.co/welcome/8d9ebb52-3e2e-444a-b581-6c021b4deede
+
+
+
+(13)URl: https://remote.co//job/rails-full-stack-engineer/
+Title: Rails Full Stack Engineer at Assurant
+Posted: Posted 1 week ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Work in a collaborative environment by occasional pair and/or mob programming
+2-Work closely with client developers to architect high-throughput systems
+3-Communicate with Engineering Managers and Product Owners to plan and prioritize work and design technical solutions
+4-Work in a cadence of two-week sprints with daily stand-ups and bi-weekly retrospectives
+5-Conduct design and code reviews
+6-Make disciplined use of source control and bug tracking systems
+7-Grow subject matter expertise in programming, product, and platform
+8-Unit-test code for robustness, including edge cases, usability and general reliability
+9-Identify and resolve complex production issues
+10-Collaborate with designers, content developers, and other software, site reliability, and QA engineers on cross-functional software products
+11-Document best practices and help create a knowledge base
+
+Requirements:
+1-Hands-on knowledge of version control systems such as Git
+2-Ruby experience, or similar dynamic scripting language experience
+3-Rails experience, or similar web framework experience
+4-Experience with templating frameworks (e.g. Haml, ERb)
+5-Experience consuming and maintaining RESTful APIs
+6-Experience with MySQL and relational database design
+7-A strong foundation in object-oriented or functional programming
+8-Ability to demonstrate technical know-how through individual contributions, pair programming exercises, and architectural designs
+9-A disciplined approach to development, testing, and quality assurance
+10-Ability to reason with and adapt to evolving development tasks and priorities
+11-Strong communication skills to create a productive communication environment with team members and stakeholders
+
+Apply-Here: https://click.appcast.io/track/a67b4n0?cs=9nb&exch=7t&jg=44z0&bid=HYiK40SJVg7ySMZQFHwhRw==
+
+
+
+(14)URl: https://remote.co//job/product-infrastructure-engineer/
+Title: Product Infrastructure Engineer at Gusto
+Posted: Posted 1 week ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Seek out problems and inefficiencies in our tooling, APIs, and feedback mechanisms available to product engineers today
+2-Ideate solutions, and then pitch, plan, measure, and implement them in an iterative fashion
+3-Maintain close connection with our product engineering colleagues to see the next change around the corner
+4-Create leverage for all of product engineering through your work on services, abstractions, and architecture
+
+Requirements:
+1-2-5 years of experience with software development and architecture
+2-Experience and/or interest in building tooling that makes your engineering colleagues successful
+3-Experience and/or interest in Ruby, Rails, architecture, developer tooling, asynchronous processing, and agile and lean software development
+4-Great communicator: We regularly make changes to how product engineers work, and must be able to effectively plan, document, consult, and collaborate with them. The ability to use anecdotes and data to illustrate the impact of your work.
+
+Apply-Here: https://boards.greenhouse.io/gusto/jobs/3111980
+
+
+
+(15)URl: https://remote.co//job/full-stack-engineer-44/
+Title: Full Stack Engineer at Wheelhouse Digital Marketing Group
+Posted: Posted 7 days ago
+Job-Type:  Remote
+
+Responsiblities:
+1-In this role you will be responsible for the Navigator platform, adding functionality to existing features, developing new features, maintaining platform stability, and any fixes along the way. Our team of client-facing engineers will be available to assist and contribute when possible, but this role will be the primary product engineer.
+2-As a full stack developer, you should be well versed in the entire development lifecycle with a an eye for turning wireframes and mockups into effective user experiences.
+3-You will need to collaborate with internal stakeholders, designers, and data experts to develop functionality that best fits the user’s need, and iterate in an agile manner.
+
+Requirements:
+1-React.js (3+ years)
+2-Competency: Translating wireframes and designs into high performance, high quality web applications.
+
+State Management
+Routing
+Responsive
+UI Framework of choice
+JWT/Authentication flows
+
+
+3-State Management
+4-Routing
+5-Responsive
+6-UI Framework of choice
+7-JWT/Authentication flows
+8-Node.js API Development (3+ years)
+
+Competency: Developing, deploying, and maintaining APIs to link views to data sources and persistence layer endpoints
+Graph APIs or REST APIs
+RDBMS Backed
+
+
+9-Competency: Developing, deploying, and maintaining APIs to link views to data sources and persistence layer endpoints
+10-Graph APIs or REST APIs
+11-RDBMS Backed
+12-SQL (1+ years)
+
+Competency: Querying and structuring data for API consumption
+PostgreSQL Preferred
+
+
+13-Competency: Querying and structuring data for API consumption
+14-PostgreSQL Preferred
+15-CSS (2+ years)
+
+Competency: Applying CSS to React applications effectively
+
+
+16-Competency: Applying CSS to React applications effectively
+17-Git (3+ years)
+
+Competency: Strong source control flow and pull request discipline
+GitHub preferred
+
+
+18-Competency: Strong source control flow and pull request discipline
+19-GitHub preferred
+
+Apply-Here: https://wheelhousedmg.applytojob.com/apply/Kh7BVLi2v4/Full-Stack-Engineer?source=DIREC
+
+
+
+(16)URl: https://remote.co//job/software-developer-teams/
+Title: Software Developer, Teams at Stack Overflow
+Posted: Posted 1 week ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Our Stack Overflow for Teams free tier, where teams of up to 50 people share knowledge together privately and securely on the Q&A platform that they already use and love.
+2-An upgrade to our search engine to provide a read-only search index of our public questions and answers to our cloud-hosted Teams and Enterprise customers. It even incorporates a new nested question and answer view that is a much more intuitive and useful user experience!
+3-Creation and rollout of our home grown and open source rich text / markdown editor to improve question drafting and editing for the thousands of contributors who use it every day. This feature was born on Teams and has made its way back to the public Q&A site.
+
+Requirements:
+1-Solid programming skills in your language of choice (not necessarily ours) and a track record of getting stuff done.
+2-1+ year(s) of full-stack web development experience with any major server-side stack, relational database, and modern front-end (JS, HTML, CSS). Experience in our stack is a plus, but not a requirement.
+3-Experience with Agile methodologies such as Scrum, XP, or Kanban. You’ve been on teams that practice Agile and you understand why it’s beneficial for the team.
+4-Prior experience developing software solutions for companies and/or end users. You’ve built features and fixed bugs for a commercial product offering before.
+5-Self-motivating, self-directing, and a great communicator (written and oral). This does not mean that you need to speak or write English perfectly! You thrive in an environment that grants you a lot of autonomy to explore creative solutions.
+6-Excellent problem solving skills. You excel at analyzing and solving problems using technology.
+7-Living and working within GMT-7:00 (US) to GMT+2:00 (Europe) time zones.
+
+Apply-Here: https://stackoverflow.com/company/work-here/3062753/software-developer-teams
+
+
+
+(17)URl: https://remote.co//job/software-engineer-core-wrapper/
+Title: Software Engineer, Core Wrapper at MANTL
+Posted: Posted 1 week ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Work as a Software Engineer on MANTL’s Core Wrapper team. As an engineer you will be tasked with helping in architecting, designing, implementing, and maintaining of MANTL’s implementations backend.
+2-Provide technical mentorship and contribute to architecture and design decisions both within the Core Wrapper team and across the entire organization
+3-Advocate for best practices in technical disciplines across MANTL’s ecosystem (testing, logging, design patterns, and more).
+4-Take product features from start to finish, taking high level asks and translating them into concrete designs, tickets, and implementations.
+
+Requirements:
+1-You love writing clean, throughly documented, and well-tested code, with an eye for long term viability and performance.
+2-You measure twice and code once when writing features, placing an emphasis on error-handing, logging, and edge cases for every service you write.
+3-You enjoy the challenge of breaking down complex product asks into elegant solutions.
+4-You are comfortable and experienced with system design, and not only have architectural opinions but are comfortable writing, speaking, and advocating for them.
+5-You approach architectural challenges not with answers but with questions, and from those questions decide upon the best approach, knowing that there is no best solution, only different sets of tradeoffs to be made.
+6-You enjoy providing technical guidance, suggestions, and code reviews for your teammates, using your knowledge to raise the bar of their work as well.
+
+Apply-Here: https://boards.greenhouse.io/mantl/jobs/5312827002
+
+
+
+(18)URl: https://remote.co//job/senior-software-engineer-full-stack-9/
+Title: Senior Software Engineer – Full Stack at TeamSnap
+Posted: Posted 1 week ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Building engaging new communication, commerce, and content features for our users.
+2-Building new onboarding flows for users as we seek to continuously optimize.
+3-Implementing custom sponsored experiences that are a win-win for our customers and brands.
+4-Creating scalable and performant endpoints for our incredibly popular apps.
+5-Working with the team to design new services and systems to support product features.
+
+Requirements:
+1-Experience leading projects for web apps and services at scale.
+2-Exposure and interest in full-stack development. You have deep experience building experiences with Ruby or Elixir. You are also familiar with other languages and frameworks as well (we use Javascript, React, Redux).
+3-Experience with direct usage of SQL and relational databases such as MySQL along with migrations, profiling, and optimization of such databases.
+4-Excitement for building great solutions and user experience.
+5-A sense of humor… or at least sympathy-laugh at our bad jokes.
+
+Apply-Here: https://jobs.lever.co/teamsnap/b56fd238-7c26-4df5-8538-bea539d07da7?lever-origin=applied&lever-source%5B%5D=FlexJobs
+
+
+
+(19)URl: https://remote.co//job/senior-software-engineer-171/
+Title: Senior Software Engineer at BallotReady
+Posted: Posted 1 week ago
+Job-Type:  Remote
+
+Responsiblities:
+1-People Development: You’ve mentored, coached, and developed multiple colleagues at the same time, and seen the resulting gains. You’re a team player excited to share your knowledge, and learn from those around you.
+2-Project Leadership: You’ve organized and led diverse project teams to achieve goals. You bring a valuable perspective in shaping the strategic direction of a project, and communicating that direction across team and service boundaries to solve problems.
+3-Making the Complex Accessible: You know how to break down complex projects into simple systems that can be effectively built and maintained by less experienced engineers.
+4-Technical Expertise: You’re a pro at one or more technical areas (i.e., backend, frontend, infrastructure). You know how to identify system design issues, and propose appropriate solutions.
+
+Requirements:
+1-Collaborating with Product and Data teams on designing the architecture for a suite of tools to streamline ingesting election data from around the country.
+2-Leading a team of engineers maintaining our internal and external facing APIs while stressing the importance of forward- and backwards-compatibility (you know that API design is hard!).
+3-Pair programming with fellow engineers to share your experience building robust software. You advocate for well-tested code and take the time to discuss different approaches to coding problems.
+
+Apply-Here: https://about.ballotready.org/senior-software-engineer
+
+
+
+(20)URl: https://remote.co//job/senior-software-engineer-frontend-4/
+Title: Senior Software Engineer – Frontend at Rasa Technologies
+Posted: Posted 1 week ago
+Job-Type:  Remote
+
+Responsiblities:
+1-You’re comfortable being lean and you fix problems without waiting for someone to tell you to.
+2-You take pride in teaching and learning from teammates, and enjoy constructive peer review in a respectful environment.
+3-You can effectively communicate what you’re working on with team members and other business functions.
+4-You thrive in an inclusive and supportive environment, working with people from diverse backgrounds.
+5-You value autonomy and transparency.
+
+Requirements:
+1-You have experience taking a leading role in building large-scale web applications. Ideally with React (which we use), but we’d be interested in hearing from you if you’ve worked with similar libraries/frameworks like Angular, Vue etc.
+2-You have advanced knowledge in Javascript / Typescript.
+3-You think ahead and anticipate technical roadblocks and risks. You contribute actively to product strategies.
+4-You have experience designing software that is maintainable and stands the test of time.
+5-You are primarily motivated by building and shipping great products, and you’re happy to look at build systems and backend code when necessary.
+
+Apply-Here: https://boards.greenhouse.io/rasa/jobs/5120420002
+
+
+
+(21)URl: https://remote.co//job/principal-back-end-software-development-engineer-authentication-team/
+Title: Principal Back End Software Development Engineer, Authentication Team at Zillow
+Posted: Posted 1 week ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Follow the latest industry trends and constantly look for opportunities for the team and Zillow Group
+2-Provide leadership that helps navigate the team through complicated technical challenges
+3-Collaborate across diverse groups to ensure smooth project delivery for large cross team projects
+4-Mentor other engineers on the team and help them achieve their career goals
+5-Design and implement reliable, performant, scalable and secure back end services
+6-Advocate for the highest quality of work through unit testing, automation testing and monitoring
+7-Exercise agile development style to deliver and iterate quickly
+8-Be a role model both technically and culturally
+
+Requirements:
+1-Bachelors or higher degree in computer science or related field
+2-8+ years of software development experience with high proficiency in Java, C++/C# or Python
+3-Proven experience in designing, developing, debugging and delivering web applications or back end services
+4-Adaptive to Scrum or similar agile frameworks
+5-Strong experience in mentoring and passionate about helping others grow professionally
+6-Demonstrated comprehensive understanding of software engineering and initiative to build better engineering practices within a team
+7-Efficient communicator who is open to ideas and suggestions
+
+Apply-Here: https://careers.zillowgroup.com/ShowJob/JobId/462183/PrincipalBackEndSoftwareDevelopmentEngineerAuthenticationTeam
+
+
+
+(22)URl: https://remote.co//job/senior-full-stack-developer-18/
+Title: Senior Full Stack Developer at Community Company - CmtyCo
+Posted: Posted 1 week ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Held engineering team or technical leadership positions
+2-Javascript expertise, both in React and in Node.js
+3-Familiarity with GraphQL, ideally experienced with Apollo server & client best-practices
+4-Understands Docker performance and security best practices
+5-Proficient in Git version control and GitHub
+6-SQL and NoSQL data structures and schemas
+7-Strong work ethic, self-starter, excellent time management
+8-Knows how to get the most from automated tests (Mocha, Jest or similar)
+
+Requirements:
+1-React-Native application development
+2-Federated GraphQL development
+3-Enterprise platforms and scalable application design
+4-White label and/or multi-tenant system design
+5-Interested in exploring new technologies
+6-Familiar with cloud technologies and platforms (AWS / GCP)
+7-Intuition for great product design
+
+Apply-Here: https://www.community.co/careers/sr-full-stack-developer
+
+
+
+(23)URl: https://remote.co//job/senior-software-engineer-full-stack-8/
+Title: Senior Software Engineer – Full Stack at Jerry Insurance Agency
+Posted: Posted 1 week ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Huge market ($800 billion market size), we are building the first AI-powered super app to help people own a car;
+2-Open, transparent, merit-based culture;
+3-Hyper growth – 10X revenue growth in 2020;
+4-Best user experience: #1 ranked app in the insurance comparison category;
+5-Strong leadership: from Amazon, Microsoft, Facebook, Nvidia, Alibaba, etc. and rockstar colleagues;
+6-A series C with $130M+ total financing, backed by top VCs such as Y-Combinator, Goodwater, SV Angel, Funders Club, and Bow Capital, etc.
+
+Requirements:
+1-Create a smart prediction engine for customer’s insurance coverage needs
+2-Build predictive models on customer purchase behavior based on a large data set
+3-Use telematics tracking to build customer driving risk profile
+
+Apply-Here: https://apply.workable.com/jerry/j/9E4ABA5074/
+
+
+
+(24)URl: https://remote.co//job/software-engineer-147/
+Title: Software Engineer at Metadata.io
+Posted: Posted 2 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Experience with big data technologies is a plus
+2-Some experience with front-end technologies such as HTML, CSS, ReactJS, Jquery is nice-to-have
+3-Some experience with Python and data analytics is nice-to-have
+4-Advertising channels (Facebook, Linkedin, Quora, Adwords, Twitter) and/or Marketing technologies(Hubspot, Marketo, Salesforce etc) — a huge Plus
+
+Requirements:
+1-Flexible remote work
+2-Competitive salary
+3-Flexible PTO and holidays
+4-Opportunities to work with Machine Learning, Big Data Analytics, and new technologies
+5-Friendly supportive team
+
+Apply-Here: https://forms.gle/DEswYuKBo68K51Jr6
+
+
+
+(25)URl: https://remote.co//job/senior-front-end-software-engineer-3/
+Title: Senior Front End Software Engineer at Cimpress
+Posted: Posted 2 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-3+ years’ experience in JavaScript engineering
+2-3+ years’ experience creating reusable components in React
+3-Experience with open-source libraries
+4-Experience with Typescript, React, and Redux
+5-Mobile/responsive Front End application development experience
+6-Experience conducting code reviews and automated testing
+
+Requirements:
+1-Experience in AWS and Docker
+2-Experience with Confluence, Jira, Gitlab or Gitlab CI
+3-Experience with Jest
+
+Apply-Here: https://jobs.vistaprint.com/Cimpress-Technology/job/Boston-Senior-Front-End-Software-Engineer%2C-Document-Design-Us-Remote-MA-02111/761875700/?feedId=1124&campaignId=3&utm_source=FlexJobs&utm_campaign=J2W_FlexJobs
+
+
+
+(26)URl: https://remote.co//job/software-engineer-fullstack-3/
+Title: Software Engineer – Fullstack at Stitch Fix
+Posted: Posted 2 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Operate as an engaged member of the engineering team by contributing to meetings, providing input on technical design documents & project plans, pairing with other engineers to work toward a solution.
+2-Collaborating with your team and stakeholders during execution of projects to deliver results against measurable goals.
+3-Participating in on-call rotations once confidently onboarded to the team.
+4-Write and review code in Ruby or Golang, JavaScript, and CSS used in applications built in React or Rails.
+
+Requirements:
+1-You are bright, kind, and motivated by challenge
+2-Are enthusiastic about technology
+3-Are respectful, empathetic, and curious
+4-Thrive in collaborative teams with a shared goal
+5-Have strong written and verbal communication skills
+6-Take initiative and are excited by new problems
+7-Have 2+ years of professional programming experience.
+8-Will need guidance from time to time, but you are good at getting yourself un-stuck
+9-Might have experience with building APIs and micro-services
+10-Might have experience with Postgres, Redis and/or RabbitMQ
+11-Might have experience working remotely
+
+Apply-Here: https://www.stitchfix.com/careers/jobs?gh_jid=3268705&gh_jid=3268705
+
+
+
+(27)URl: https://remote.co//job/senior-ui-front-end-developer/
+Title: Senior UI – Front-End Developer at Interaction Design Foundation - IDF
+Posted: Posted 2 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Laravel Blade template engine (yup, we build our HTML on the server-side).
+2-PostCSS to maximize the power of modern CSS.
+3-Webpack for perfect control over front-end assets.
+4-Latest JS with support for ES2020 features. To accomplish this we use the latest Babel releases.
+5-BEM/ITCSS in combination with Tailwind CSS based utility classes.
+6-A custom-made design system (https://design-system.interaction-design.org) to achieve consistency and ease of use.
+
+Requirements:
+1-You have at least 5 years of experience working as a Front-End Developer.
+2-You prefer native web APIs and functionality over alluring new frameworks – and you know how and when to use them.
+3-You regularly use WHATWG and W3C and you are intimately familiar with the latest web standards.
+4-You can create your own intelligent, reusable CSS layout system.
+5-You test across devices and browsers, and optimize for performance.
+6-You write testable code.
+7-You love to learn through doing. You’re always ready to put in some hard work to expand your skills.
+8-You speak and write acceptable English – not perfect English, just acceptable – since you will be working with people from Canada, England, Denmark, the US, Belarus and Brazil among others.
+9-You are a team player and you don’t bring your ego to work.
+10-You are self-motivated and self-disciplined and thus work well in a flat hierarchy with lots of freedom.
+11-You love to have creative freedom, make independent judgments and live up to the responsibility that comes with that freedom.
+12-You love to create tangible results—every hour and every day.
+
+Apply-Here: https://www.interaction-design.org/about/careers/Senior-UI-Front-End-Developer
+
+
+
+(28)URl: https://remote.co//job/senior-software-engineer-point-of-sale/
+Title: Senior Software Engineer – Point Of Sale at Punchh
+Posted: Posted 2 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Experience on C#, .Net framework.
+2-Knowledge of REST API and web services.
+3-Agile development experience.
+4-Positive attitude, good communication skills.
+5-Experience with payment and stored value solutions (gift card, PayPal, etc)
+6-POS development experience (Restaurants, Convenience Stores, Retail, Grocery). Aloha / Micros or other POS integration experience.
+
+Requirements:
+1-Understands customer requirements and develops solutions for POS Applications.
+2-Able to evaluate & communicate risk and propose solutions.
+3-Support continuous improvements.
+4-Provide end-to-end leadership and support to teams and partners.
+5-Writing scalable, robust, testable, efficient, and easily maintainable code.
+6-Translating software requirements into stable, working, high-performance software.
+7-Software & Build Package automation via CI (continuous integrations).
+8-Playing a key role in architectural and design decisions for POS-based solutions.
+
+Apply-Here: https://punchh.com/careers-positions/5374818002?gh_jid=5374818002
+
+
+
+(29)URl: https://remote.co//job/senior-open-source-developer-and-devops/
+Title: Senior Open Source Developer and DevOps at OpenCraft
+Posted: Posted 2 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-The Open edX platform is a large Python/Django codebase, with good code standards and architecture.
+2-You would work on different clients contracts using the platform.
+3-The clients list/references include Harvard, MIT, edX themselves, the French government, and various startups & universities currently running their own instances, or looking to create one.
+4-Tasks are very varied, from developing core platform features, custom exercises and tools for specific courses (XBlocks), customizing and deploying instances, working fullstack, operating our service infrastructure, improving our hosting platform, etc.
+5-You won’t get bored here.
+6-Most of your work is published as free software (Open edX is released under the AGPL license, which requires clients to release modifications under the same license), and you would also contribute to the free software project, pushing most of your developments upstream through pull requests, contributing features, documentation or help on mailing-lists.
+7-We welcome applicants of all genders and ethnicities.
+
+Requirements:
+1-Senior developer with 3+ years working with Python
+2-Experience with Python web frameworks, specifically Django
+3-3+ years of HTML, Javascript, and CSS (experience with React is a big plus!)
+4-Experience with unit testing
+5-You feel comfortable working in a Linux environment, specifically Debian or Ubuntu
+6-Experience with databases: MySQL, MongoDB, PostgreSQL
+7-Experience with contributing to free software projects, and communicating within a free software community
+
+Apply-Here: https://opencraft.com/jobs/open-source-developer/
+
+
+
+(30)URl: https://remote.co//job/senior-software-engineer-169/
+Title: Senior Software Engineer at Headspring
+Posted: Posted 2 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-5+ years’ hands-on development experience with full stack .NET technologies, including C#, HTML5, CSS, jQuery, ASP.NET, MVC, web API, EntityFramework, Serilog, psake, and nuget
+2-Proficient with developer productivity and automated refactoring tools such as ReSharper
+3-Solid understanding and/or hands-on experience with database technologies that include SQL Server and experience writing basic migration scripts to be executed by RoundhousE or equivalent tool
+4-Proven ability to quickly investigate, learn and deliver technical solutions
+5-Proven ability to master new development tools and passion for learning
+6-Exceptional communication, documentation and presentation skills
+7-Experience working with git is strongly preferred
+8-Experience with CQRS architectures and frequently used libraries such as MediatR and AutoMapper is preferred
+9-Experience working with messaging solutions such as RabbitMQ, AzureServiceBus, NServiceBus and/or MassTransit is preferred
+10-Experience using React, Angular or Vue.js is preferred
+11-Experience working with cloud native technologies within Azure, AWS or GCP is preferred
+12-Experience with CI/CD using tools such as AzureDevOps, Octopus, or TeamCity is preferred
+13-Demonstrated experience with Docker and Kubernetes is preferred
+
+Requirements:
+
+Apply-Here: https://headspring.com/about/careers/apply/?gh_jid=2446722
+
+
+
+(31)URl: https://remote.co//job/senior-react-native-mobile-engineer/
+Title: Senior React Native Mobile Engineer at Perficient
+Posted: Posted 2 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Bachelor’s Degree in Computer Science or equivalent experience.
+2-4-8 years of demonstrable experience in mobile development.
+3-React Native application development experience.
+4-iOS development experience using Swift a plus.
+5-Android development experience using Kotlin a plus.
+6-A thorough understanding of OOP, design patterns, mobile, and enterprise in mobile application integration.
+7-Ability to rapidly learn and take advantage of new concepts and technologies.
+8-Experience in an Agile environment.
+
+Requirements:
+
+Apply-Here: https://click.appcast.io/track/8ritkwa?cs=9nb&exch=1o&jg=3lk1&bid=g5JZWjZ4WEUgdDqOhvmx6Q==
+
+
+
+(32)URl: https://remote.co//job/front-end-software-engineer-iii/
+Title: Front-End Software Engineer III at Particle
+Posted: Posted 2 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Develop web front-end applications. You will write code and implement UIs for the web front-end applications used by our most important enterprise customers to manage large fleets of Internet of Things (IoT) devices in real world deployments. With any support needed, you will also dive into our backend applications like the Particle REST API, our GraphQL API, making unified front and backend changes that are deployed in tandem. We are a product driven agile shop and the Particle Product Team will define much of the work you do, producing designs and user stories that describe the user experience on our platform. You will test your code using unit and integration tests that run under continuous integration because we love well tested systems for the stable experience it brings to our customers. You will validate your changes using real Particle cellular devices connected to the Particle cloud platform.
+2-Ensure the performance, reliability and security of front-end applications. You will instrument the applications to report user activity metrics and participate in triaging issues reported by customers as well as those logged automatically in our error tracking system (we use Sentry!), and work to resolve issues by order of priority. You will update dependencies to keep applications up to date and you will collaborate with the security team to respond to security vulnerability reports. Security work is taken seriously and we will also fix know defects over product updates.
+3-Design the future of the Particle Cloud. You will collaborate with the Product team, lead engineers and UI designers to provide users with a good experience at all stages of their journey managing their IoT product. You will plan your work for 2 week agile sprints and ship with our team a major product update every 6 weeks
+4-Work daily with a global team. You’ll be working daily with a global team of engineers, designers and product managers and your excellent written and oral technical communication are the secret sauce that enables you to amplify your contributions across the team. You will participate in code reviews to learn about other parts of the Particle cloud, and share your knowledge with other engineers.
+
+Requirements:
+1-3+ years experience developing web-end applications in React and / or React Native
+2-Expertise in Javascript with a firm understanding of its most common runtimes (Browsers, Node.js)
+3-Experience with modern front-end tooling like bundlers (webpack), package managers (npm, bower) and testing frameworks (Jest, Mocha)
+4-Familiarity with Typescript and the tools and techniques required to build productions systems with it
+5-A deep understanding of HTML5 and CSS
+6-An understanding of web technologies (HTTP, REST APIs, web servers)
+7-Experience with test-driven development, continuous integration and continuous deployment
+8-A strong understanding of git and the GitHub platform
+9-Phenomenal communication skills, both written and verbal
+10-Experience working remotely for a U.S. based company
+
+Apply-Here: https://www.particle.io/careers?gh_jid=3273600
+
+
+
+(33)URl: https://remote.co//job/senior-backend-software-engineer-5/
+Title: Senior Backend Software Engineer at Avra Talent
+Posted: Posted 2 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Job type: Full-time
+2-Location: Remote, (GMT-06:00) Central Time +/- 2 hours preferred
+3-Office Location: Leawood, KS. Employees can also work full time from this office if they prefer.
+4-Salary: $110k – 150k + Equity
+
+Requirements:
+1-Unlimited Vacation
+2-Great medical + Dental + Vision
+3-Flexible Hours
+4-Company Matched 401K
+5-Performance Bonus
+6-Tuition Reimbursement
+7-Opportunity to Earn Equity in the Company
+8-Continuous Learning/Conference Stipend
+9-Home Office Stipend
+
+Apply-Here: https://recruit-66c441c05fde.breezy.hr/p/5ce7b952893c-senior-backend-software-engineer-remote?source=flexjobs
+
+
+
+(34)URl: https://remote.co//job/senior-software-engineer-utility-partnerships/
+Title: Senior Software Engineer, Utility Partnerships at OhmConnect
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Consumer-facing applications that use home automation control and user behavior modeling to shape consumer energy consumption.
+2-Integrations with a growing set of devices and appliances – smart plugs, thermostats, EV chargers, water heaters, etc.
+3-Smart meter data ingestion and analysis for consumer energy consumption forecasts.
+4-Bidding, monitoring, and settlement processes for energy markets.
+
+Requirements:
+1-Collaborate with our utility partners’ product management, user experience, content, and customer support teams.
+2-Design, develop, test, and deploy new code and experiments to optimize user engagement, performance, and device adoption.
+3-Prioritize and manage development and issue resolution activities.
+4-Participate in our agile development process, with regular team updates, standup meetings, 1-on-1’s.
+5-Perform peer code review; mentor and manage other developers.
+6-Implement application monitoring tools and proactively monitor application performance.
+7-Work on all aspects of our stack: Python, Flask, React, MySQL, Celery, AWS (EC2, ELB, RDS, Redshift, S3, SQS, SES, etc), Ubuntu, Apache, Redis, Git, Jira.
+
+Apply-Here: https://apply.workable.com/ohmconnect/j/C810B9B65D/
+
+
+
+(35)URl: https://remote.co//job/senior-software-engineer-backend-8/
+Title: Senior Software Engineer – Backend at Restream
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Develop and maintain features in Restream web services.
+2-Design and implement backend APIs and business logic necessary to support new and existing features
+3-Give and receive code review feedback with the team
+4-Maintain a pulse on emerging technologies and discover hidden opportunities in our environment.
+5-Ensure redundancy and resilience of Restream production infrastructure.
+
+Requirements:
+1-A scrappy, entrepreneurial attitude that gets high-quality projects done quickly.
+2-Expert in at least two of the following programming languages: Go, Rust, Node.JS (TypeScript), PHP7.
+3-Highly proficient in database design, with both relational (MySQL or PostgreSQL) and NoSQL (Scylla, Redis) databases.
+4-Experience with creating, testing, consuming, and supporting APIs for web services.
+5-Comfortable working with AWS, Linux, Docker, Kubernetes, continuous deployment workflow, multiple programming languages tech stack.
+6-Basic front-end skills. Experience with modern front-end frameworks is a plus.
+7-Strong written and verbal communication skills.
+8-Self-directed, analytical, and work well in a team environment.
+9-Remote role, EMEA business hours. #LI-Remote
+
+Apply-Here: https://jobs.lever.co/restream/b13d3dd6-a444-4484-8dab-7825d9eb5d02
+
+
+
+(36)URl: https://remote.co//job/full-stack-engineer-43/
+Title: Full-Stack Engineer at American Family Insurance
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Compensation Minimum:$76,900
+2-Compensation Maximum:$141,600
+
+Requirements:
+1-Node JS
+2-React
+3-AWS – Cloudformation, Lambda, Athena, DynamoDB, RDS, Glue
+4-CI/CD pipeline creation/maintenance
+5-Experience with creating and managing AWS/GCP/Azure resources with Terraform
+6-Experience designing and building secure, distributed systems with REST APIs and microservices
+
+Apply-Here: https://click.appcast.io/track/91imljd?cs=9nb&exch=1o&jg=3iz0&bid=SWlJiNchsNTvke3O2bfryA==
+
+
+
+(37)URl: https://remote.co//job/full-stack-engineer-42/
+Title: Full-Stack Engineer at BrandYourself
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-BrandYourself’s software and services have helped over a million people protect and improve their online reputation and privacy.
+2-We have been featured on ABC’s Shark Tank, BBC’s Dragons’ Den and numerous other media outlets.
+3-With a stable (and profitable) Online Reputation Management (ORM) business, the company has begun broadening its offerings to include consumer privacy tools. Upon launch, these privacy features quickly became our best-selling and most engaging tools.
+4-We’ve leveraged that experience into an exciting new opportunity by partnering with Fortune 500 companies and offering our privacy tools to their customers via API. We have partnerships with publicly-traded companies completed and expected to launch in 2021 (and many more on the horizon).
+5-To learn more about the company visit: http://brandyourself.com/about
+
+Requirements:
+1-We’re looking for a Full-Stack Engineer to join our dynamic Engineering team.
+2-This role will focus on helping us rapidly execute our API & SaaS roadmaps. This position will be fully Remote.
+3-This is an opportunity to join a fast-growing, profitable venture-backed company in a rapidly expanding market in a highly-impactful position.
+
+Apply-Here: http://careers.brandyourself.com/apply/nKi2MbDx4W/FullStack-Engineer?source=DIREC
+
+
+
+(38)URl: https://remote.co//job/ios-engineer-17/
+Title: iOS Engineer at Arrive Mobility
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Comfortable and fluent in Swift and Objective-C
+2-Basic understanding of UIKit; lifecycle, views, layers, animations and Auto Layout.
+3-Highly collaborative in the planning and grooming stages, our engineers help define the products that we build
+4-Shipping clean, testable code that any developer on any team could quickly get up to speed
+5-Strong Computer Science background, preferably with a degree
+
+Requirements:
+1-Attend the morning mobile team stand with folks from product management, engineering, design, UX and QA
+2-Work with those same folks on product development from the current sprint
+3-Perform technical spiking for a future initiative
+4-Monitor crash reports in AppCenter/Bugsnag, as well as issues reported in Jira
+5-Use Slack to collaborate with your teammates and other folks throughout the organization
+6-Perform a code review for a recently submitted pull request
+7-Head out on a quick coffee walk
+8-Ship code and celebrate
+
+Apply-Here: https://jobs.lever.co/arrive/3d1d3471-1c31-4217-90c5-bb6d20e237ec
+
+
+
+(39)URl: https://remote.co//job/backend-engineer-31/
+Title: Backend Engineer at Stash
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Build backend services including the core APIs that power our mobile apps, and our backend data processing and trading systems
+2-Deliver software components from the first commit to production
+3-Work in a multi-functional agile team to produce working software incrementally
+4-Instrument, test, profile, and code review software
+5-Continuously deploy to our cloud-based infrastructure
+
+Requirements:
+1-3+ years of professional experience building consumer-facing software
+2-BS in Computer Science preferred or relevant industry experience
+3-A passionate engineer who can turn ideas and requirements into working software
+4-Experience building RESTful APIs
+5-Creative problem solver with a passion for testing, debugging, and overall code quality
+6-Familiarity with or interest in Scala, Akka, Terraform, Postgres, SNS/SQS, Kafka, Ruby on Rails
+
+Apply-Here: https://www.stash.com/careers/job?gh_jid=2409443
+
+
+
+(40)URl: https://remote.co//job/wordpress-developer-frontend/
+Title: WordPress Developer (Frontend) at Modern Tribe
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Strong communication skills
+2-Experience working as part of a remote team
+3-Self-motivated, detail-oriented
+4-Strong organizational skills
+5-A methodical approach to all tasks
+6-Ability to prioritize workloads and meet deadlines
+7-Fluent English speaker
+
+Requirements:
+1-Exceptional HTML & CSS (including experience with Sass or PostCSS and BEM) skills
+2-Mid to advanced level vanilla JavaScript experience (including experience with webpack, babel, and ES2015+ syntax)
+3-Experience working with design systems and design system thinking
+4-Mid to advanced level experience developing WordPress powered sites
+5-Extensive knowledge of modern frontend development standards
+6-Proficiency at local environment setups, including docker
+7-Proficiency in version control, namely GIT
+8-You have experience working in a remote, fast paced, and highly collaborative environment with peers from different backgrounds and skill sets.
+9-You pay attention to and are passionate about the details.
+10-You take pride in and value team success.
+11-You are thoughtful and motivated when it comes to approaching your work. This includes being comfortable with proactively driving feature requirements whether that be identifying gaps and asking questions or helping flesh out additional details.
+
+Apply-Here: https://modern-tribe.breezy.hr/p/03e3a7b2f753-wordpress-developer-frontend?source=remoteco
+
+
+
+(41)URl: https://remote.co//job/java-developer-12/
+Title: Java Developer at Toptal
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+(42)URl: https://remote.co//job/data-engineer-30/
+Title: Data Engineer at Toptal
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+
+Apply-Here: https://topt.al/kqcZDD
+
+
+
+(43)URl: https://remote.co//job/ios-developer-23/
+Title: iOS Developer at Toptal
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+
+Apply-Here: https://topt.al/4GcNAk
+
+
+
+(44)URl: https://remote.co//job/react-native-developer-7/
+Title: React Native Developer at Toptal
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+
+Apply-Here: https://topt.al/KbcvWj
+
+
+
+(45)URl: https://remote.co//job/ecommerce-developer-2/
+Title: Ecommerce Developer at Toptal
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+
+Apply-Here: https://topt.al/5kcWay
+
+
+
+(46)URl: https://remote.co//job/ruby-on-rails-developer-21/
+Title: Ruby on Rails Developer at Toptal
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+
+Apply-Here: https://topt.al/yDcwn6
+
+
+
+(47)URl: https://remote.co//job/senior-react-developer-4/
+Title: Senior React Developer at Toptal
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+
+Apply-Here: https://topt.al/nzc7ng
+
+
+
+(48)URl: https://remote.co//job/backend-software-engineer-13/
+Title: Backend Software Engineer at RubiconMD
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Champion end-to-end feature development with participation in system design & architecture, engineering implementation, software release, and technical support.
+2-Share and be open to learn from your peers via pair programming, technical writing, code reviews, architecture discussions, and active engagement with stakeholders.
+3-Make explicit tradeoffs between technical implementation directions, and strive to clearly communicate to your peers what data drove you to make these choices.
+4-Identify and advocate for opportunities to improve the performance, reliability, and scalability of technical stack and processes.
+5-Build accessible, secure, and performant software solutions in a highly regulated healthcare environment. These may include on platform features, internal support tooling, mobile applications, and third party integrations.
+
+Requirements:
+1-We are using Ruby 2.7 and Rails 6.1. We are reading changelogs, anticipating Rails 7, and actively participating in the community.
+2-You have knowledge of core sets of functionality like Active Record and Active Admin, as well as carry a set of opinions about their strengths and weaknesses.
+3-We are using PostgreSQL and so we’d like to hear about when you’ve had to write explicit queries or what techniques you’ve leveraged to performance tune a data store.
+4-In delivering robust software, we expect you to bring some opinions about clean code, testability, and design patterns.
+5-We use GraphQL as a query language for our API between frontend and backend. You should have experience utilizing APIs and designing contracts between engineering teams.
+
+Apply-Here: https://boards.greenhouse.io/rubiconmd/jobs/4623771002
+
+
+
+(49)URl: https://remote.co//job/javascript-developer-13/
+Title: JavaScript Developer at Kinsta
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-What to expect in the interview 
+2-Coding skills you need at Kinsta 
+3-What we are looking for in a candidate 
+4-Development at Kinsta
+
+
+Requirements:
+
+Apply-Here: https://jobs.lever.co/kinsta/a3fe724e-65de-424c-8c07-541b15a5390a?lever-origin=applied&lever-source%5B%5D=Remote.co
+
+
+
+(50)URl: https://remote.co//job/senior-full-stack-engineer-client/
+Title: Senior Full Stack Engineer – Client at TaskRabbit
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Collaborating with design and product management to conceptualize new product features from the ground up
+2-Work alongside more junior software engineers to help them think through designs, code implementation, and how to break down their goals into actionable steps
+3-Innovate & contribute to our technical roadmap of ongoing improvements, enhancements and updates
+4-Participate in code reviews, listening to feedback and commenting on other approaches
+5-Invest in the documentation of best practices and coding patterns
+6-Help solve complex debugging, testability, and deployability problems
+7-Collaborate across teams to promote consistency
+8-Improve stability and consistency of existing and new backend & frontend code
+
+Requirements:
+1-5+ years of experience, comfortable working independently
+2-Proficient with Ruby on Rails, Javascript or Front end componentized frameworks such as React.js (React Native is a plus)
+3-Experience building API-driven applications or endpoints
+4-Proficient understanding of how to organize code across the stack: what belongs in the frontend, what in the back
+5-Experience with feature flagged development
+6-Comfortable with automated testing and JS build and packaging systems like Webpack and Jest
+7-A strong advocate of clean code
+
+Apply-Here: https://boards.greenhouse.io/taskrabbit/jobs/3259812
+
+
+
+(51)URl: https://remote.co//job/web-developer-32/
+Title: Web Developer at Nodle
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+
+Apply-Here: https://nodle.breezy.hr/p/169419c69765-web-developer?source=remoteco
+
+
+
+(52)URl: https://remote.co//job/senior-frontend-developer-7/
+Title: Senior Frontend Developer at ShipHero
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Work on a cross-functional team including backend and UX to build solutions that are easy for customers to understand, work consistently and scale well.
+2-Review features and requirements, design and implement solutions.
+3-Understand business requirements and think through solutions in terms of not just the coding implementation but also how the solution fits into the solution and how it solves a customer need.
+4-Ability to estimate effort and ship on agreed schedule.
+5-Perform regular code reviews, with the goal of code quality, good design and approach along with pushing engineers to improve and evolve.
+6-Optimize existing tech stack and solutions, determine path to next step in the evolution.
+7-Learn, and push those around you to do the same – this is a craft that you’re constantly improving upon.
+8-Implement solutions that are pragmatic to get the platform built.
+9-Have the confidence to work with experienced and talented people to just build great things, you’re not a “rock star”.
+
+Requirements:
+1-$2.500 so you can buy any equipment you need to be happy at your job
+2-20 days paid vacation + new year & Christmas
+3-Conference days don’t count against your vacation days, we want you to stay up-to-date
+4-We will pay for courses & conferences, if you learn we all learn
+5-Salary range is wide since we’re hiring for different seniority levels, the range is $60.000 – $110.000 / year depending on experience
+
+Apply-Here: https://shiphero.breezy.hr/p/d8221349cf54-senior-frontend-developer?source=remoteco
+
+
+
+(53)URl: https://remote.co//job/software-engineer-146/
+Title: Software Engineer at HealthVerity
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Design and develop software across our full product stack (React on the frontend, powered by a robust backend microservice architecture)
+2-Contribute to our product direction by translating customer requirements into functional, scalable code, consulting with product and design resources to guide our engineering choices and workflow
+3-Devise and implement improvements to our automated testing and deployment processes
+4-Manage the operation and automation of production environments
+5-Triage technical support requests as needed
+
+Requirements:
+1-2+ years of experience making full stack contributions to production web applications
+2-Strong development-tools fundamentals (git/GitHub, npm/yarn dependency management, etc.)
+3-Proficient, working knowledge of AWS (bonus: Lambda/Serverless)
+4-DevOps experience with complex, microservice-driven production systems
+5-Comfortable with ES6 JavaScript / TypeScript
+
+Apply-Here: https://jobs.lever.co/healthverity/da088872-2800-430a-80e9-8ff2f787297f
+
+
+
+(54)URl: https://remote.co//job/senior-backend-developer-12/
+Title: Senior Backend Developer at Publitas
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Fluency in English
+2-Advanced skills in the following:
+
+Ruby on Rails
+Distributed job processing
+Relational databases & SQL
+Cloud-based infrastructure
+Building scalable backends and APIs
+
+
+3-Ruby on Rails
+4-Distributed job processing
+5-Relational databases & SQL
+6-Cloud-based infrastructure
+7-Building scalable backends and APIs
+
+Requirements:
+1-Ruby on Rails
+2-Distributed job processing
+3-Relational databases & SQL
+4-Cloud-based infrastructure
+5-Building scalable backends and APIs
+
+Apply-Here: https://www.publitas.com/jobs/senior-backend-developer-ruby-remote-saas/
+
+
+
+(55)URl: https://remote.co//job/software-engineer-145/
+Title: Software Engineer at Participatory Culture Foundation
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Strong command of Python and Javascript
+2-Strong command of Django
+3-Ability to deliver clean, maintainable code
+4-Ability to learn and work with legacy code
+5-Self-motivated, quick learner
+6-Remote work experience
+
+Requirements:
+1-Advanced skills in JavaScript and AngularJS (or other contemporary Javascript frameworks)
+2-Dev Ops experience
+3-Experience with Docker, Kubernetes, or AWS
+4-Automated web browser testing
+5-Understanding of modern translation and localization technologies
+6-Excellent written and verbal English communication skills
+
+Apply-Here: https://pculture.org/jobs/amara-software-engineer-(full-stack)
+
+
+
+(56)URl: https://remote.co//job/senior-front-end-engineer-11/
+Title: Senior Front-end Engineer at Launch Potato
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Develop JavaScript component-based plugins
+2-Write front end code for dashboards that allow non-technical users to intuitively interact with data
+3-Collaborate with product managers, designers, stakeholders, anyone to help create the best product possible
+4-Coach and mentor other engineers on best practices
+5-Research new technologies and prototype potential solutions
+6-Lead discussions about project architecture and technical feasibility
+7-Build internal tools used to increase team productivity
+
+Requirements:
+1-Frontend languages and Libraries
+
+HTML5/Javascript,
+jQuery, Vue.js, React, Node.js, GraphQL
+CSS Grid, flexbox, bootstrap, miligram
+
+
+2-HTML5/Javascript,
+3-jQuery, Vue.js, React, Node.js, GraphQL
+4-CSS Grid, flexbox, bootstrap, miligram
+5-Backend
+
+Python/Django
+Linux/Ubuntu, Nginx, Docker, AWS
+Postgresql, Memcached, Redis
+S3, Athena, Kinesis
+
+
+6-Python/Django
+7-Linux/Ubuntu, Nginx, Docker, AWS
+8-Postgresql, Memcached, Redis
+9-S3, Athena, Kinesis
+10-Monitoring/Communication
+
+CircleCI, New Relic, Sentry
+Asana
+Slack (our GIF game is strong)
+
+
+11-CircleCI, New Relic, Sentry
+12-Asana
+13-Slack (our GIF game is strong)
+
+Apply-Here: https://launch-potato.breezy.hr/p/a1adf6bb2b44
+
+
+
+(57)URl: https://remote.co//job/senior-ruby-on-rails-developer-4/
+Title: Senior Ruby on Rails Developer at Empire Flippers
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-You must have a passion for travel, ideally with long periods of digital nomad experience with travel outside your home country.
+2-You must have 2+ years of Ruby on Rails experience under your belt, having built RoR applications.
+3-An in-depth understanding of database management systems, both relational and non-relational databases.
+4-You should be a ninja with every component of our tech stack. You must have a complete working knowledge of Ruby on Rails, Postgres, Sidekiq, Rspec, Git, Redis.
+5-Experience working with a wide range of 3rd party integrations. Our platform talks to many 3rd party applications, you should have experience building and maintaining such integrations in a test driven fashion.
+6-Dev-ops/sysadmin skills, particularly AWS. Experience with managing servers, maintaining hosting environments, being responsible for uptime and responsiveness, addressing bottlenecks, ensuring backups are kept safe and sound.
+7-You need to have immaculate attention to detail. We need to hear you grunting and moaning if something doesn’t quite look or feel right, to the nearest code change and to the nearest hexadecimal color, to the point you become annoying to us. At times other developers may edit your code, you’ll be watching to ensure the code base remains readable, scalable and fast.
+8-Be a good communicator. It sounds very clich, but you’ll immerse yourself in almost every department. You’ll be learning problems and presenting solutions, and overseeing the implementation of those solutions too.
+9-A self-starter. We need to see some evidence that you’re able to get up every morning, bite the bullet and just get on with it, even if you’ve tried four coffee shops and none have decent wifi. You won’t have eyes looking over your shoulder on a day to day basis, you’ll be working in almost full autonomy. We’ll need to trust you to deliver the goods. We don’t believe in micro-management.
+
+Requirements:
+1-PHP/WordPress. We will be interfacing with WordPress significantly, being able to speak the same language would be great.
+2-React. Our frontend code is built in React, being able to go in and patch things up as and when required would be a big benefit to us.
+3-Caching. The software we’re building needs to be fast and to remain fast as we scale, both in terms of traffic and database size. Having experience with Memcached, Varnish or experience with complicated CDN setups with many rules would be a plus.
+4-CI/CD: We’re huge advocates for automated tests in a continuous fashion, which allows us to rapidly deploy new features every single day without fear of breaking out applications.
+
+Apply-Here: https://empireflippers.com/career/senior-ruby-on-rails-developer-2/
+
+
+
+(58)URl: https://remote.co//job/software-engineer-backend-python-americas-european-time-zones-100-remote/
+Title: Software Engineer – Backend/Python (Americas & European time zones) at Close
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-
+
+Contributed open source code related to our tech stack
+Led small project teams building and launching features
+Built B2B SaaS products
+Experience with sales or sales tools
+
+
+2-Contributed open source code related to our tech stack
+3-Led small project teams building and launching features
+4-Built B2B SaaS products
+5-Experience with sales or sales tools
+
+Requirements:
+1-Contributed open source code related to our tech stack
+2-Led small project teams building and launching features
+3-Built B2B SaaS products
+4-Experience with sales or sales tools
+
+Apply-Here: https://jobs.lever.co/close.io/592193bf-8a9c-43cf-86a1-faeb75107939?lever-origin=applied&lever-source%5B%5D=Remote.co
+
+
+
+(59)URl: https://remote.co//job/engineering-manager-42/
+Title: Engineering Manager at Fold
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Bachelor’s Degree from a 4-year college or university
+2-8+ years of direct experience
+3-Must also have broad and deep technical understanding of the technologies in this field, including but not limited to:
+
+Front End technologies like ReactJS / Angular
+Experience with
+Experience working with
+Strong data management principles, around data architecture, modeling/design, data quality, security, data organization and operations.
+
+
+4-Front End technologies like ReactJS / Angular
+5-Experience with
+6-Experience working with
+7-Strong data management principles, around data architecture, modeling/design, data quality, security, data organization and operations.
+8-Preferred – Experience implementing
+9-Ability to effectively share technical information, communicate technical issues and solutions to all levels of business
+10-Able to juggle multiple projects – can identify primary and secondary objectives, prioritize time and communicate timeline to team members
+11-Ability and desire to take product/project ownership
+12-Ability to work a flexible schedule based on department and Company needs.
+
+Requirements:
+1-Front End technologies like ReactJS / Angular
+2-Experience with
+3-Experience working with
+4-Strong data management principles, around data architecture, modeling/design, data quality, security, data organization and operations.
+
+Apply-Here: mailto:people@foldapp.com?subject=Application%20via%20Engineering%20Manager%20listing%20on%20https%3A%2F%2Fremote.co
+
+
+
+(60)URl: https://remote.co//job/senior-software-engineer-product/
+Title: Senior Software Engineer, Product at Fleetio
+Posted: Posted 3 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Be a part of an incredible team of “A” players who go above and beyond to make Fleetio a successful company. You will build software used by people all around the world. So many different types of companies and organizations operate a fleet each day, and Fleetio is a good fit for most of them (it’s a huge market).
+2-Work remotely (within the United States, Canada or Mexico), or at our Birmingham, AL HQ. Over 80% of our Engineering Team works remotely (including our CTO), and we have promoted a strong remote working culture since the beginning (2012). #LI-REMOTE
+3-We place great emphasis on work/life balance. We have families and hobbies and know you do, too.
+
+Requirements:
+1-Strong experience with Ruby on Rails
+2-Experience solving challenging architecture problems with good design
+3-Experience scaling fast-growing software products
+4-Strong understanding of object-oriented programming and relational databases, such as PostgreSQL
+5-Experience with data-modeling and optimizing query performance
+6-Experience working with modern JavaScript/ES6+
+7-Experience with unit testing frameworks
+8-Excellent communication skills (particularly written)
+9-Be sure to mention “coffee” in your application so we know you read this
+
+Apply-Here: https://apply.workable.com/fleetio/j/64C77FFD8C/
+
+
+
+(61)URl: https://remote.co//job/senior-frontend-engineer-9/
+Title: Senior Frontend Engineer  (Central European Timezones Only +/- 3 hours) at Superside
+Posted: Posted 4 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+
+Apply-Here: https://superside.pinpointhq.com/jobs/15988
+
+
+
+(62)URl: https://remote.co//job/senior-frontend-engineer-8/
+Title: Senior Frontend Engineer at Hello Alice
+Posted: Posted 4 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Writing and maintaining performant and reusable code
+2-Maintaining a component library to be used across projects
+3-Collaborating with developers in other product teams
+4-Constantly improving site performance and accessibility
+5-Participating in sprint planning activities
+6-Quarterly code audits with improvement recommendations
+7-Auditing NPM packages and build sizes
+
+Requirements:
+1-4+ years of front-end development team experience
+2-2-3+ years experience with React
+3-1-2+ years experience with NextJs
+4-Experience with build size optimization
+5-Experience with Vue.js
+6-Experience with GraphQL
+7-Experience with working with REST APIs
+8-HTML5/CSS3/SCSS
+
+Apply-Here: https://apply.workable.com/hello-alice/j/5624C0612D/
+
+
+
+(63)URl: https://remote.co//job/senior-software-engineer-167/
+Title: Senior Software Engineer at Walt Disney Company
+Posted: Posted 4 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Disney Streaming Services is a best-in-class media streaming technology company powering several of the largest streaming properties in the world, such as Disney+ and ESPN+, and is paving the way for next-generation media and sport technologies. As part of the Disney Streaming IAP Team, you will work on building software that powers entitlement and activation of in-app purchases made on third-party stores.
+2-The Activation team is committed to both engineering excellence and personal well-being. Some things you can look forward to as a member of the Activation team:
+3-Co-workers who are committed to finding the right tools for the job, while leaving their ego at the door
+4-Focus on never disappointing the customer, even when things go wrong
+5-High value placed on code quality and understanding the true requirements
+6-A fanatical drive to build systems so resilient that we never get woken up in the middle of the night
+
+Requirements:
+1-The opportunity to work on a bleeding-edge technology stack.
+2-The opportunity to work with a world-class team of Software Engineers.
+3-The opportunity to work on award-winning and complex apps and systems.
+4-The opportunity to have an influence on the innovation of products used globally by tens of millions of people.
+5-The opportunity to work in a highly collaborative team environment.
+6-Amazing perks and benefits
+
+Apply-Here: https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25348&siteid=5039&AReq=814587BR
+
+
+
+(64)URl: https://remote.co//job/full-stack-engineer-41/
+Title: Full Stack Engineer at Brightline, Inc.
+Posted: Posted 4 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Collaborate on projects from end-to-end – from scoping features with product and design to shipping a finished feature into production
+2-Write code across the entire stack, including Ruby + Rails on the backend and TypeScript + React on the frontend
+3-Have a mix of heads-down and pairing time, depending on the project and your energy levels
+4-Curate a great codebase through architecture discussions, automated testing and code review
+5-Bring a new perspective that helps our team continue to grow and improve
+
+Requirements:
+1-Improving our initial user onboarding experience
+2-Building internal tools to make our clinical staff more effective
+3-Creating new interactive digital exercises for use alongside treatment
+4-Improving developer tooling to make our whole team more productive
+
+Apply-Here: https://www.hellobrightline.com/careers?gh_jid=4217422003#job-description
+
+
+
+(65)URl: https://remote.co//job/full-stack-engineer-administration/
+Title: Full Stack Engineer, Administration at Auth0
+Posted: Posted 4 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Account governance – deliver centralized, enterprise-ready account management capabilities at the customer level that allow administrators transparency and full control over how the resources are managed within their subscription.
+2-Team Management – enable administrators to bring their teams to use our product in a secure way, honoring the least privilege access principle, and facilitate the tasks of managing their access over time.
+3-Team Security – further secure the access of customer s team members to the Auth0 dashboards and APIs by supporting integrations with their company directory, configuring identity preferences and policies, and having visibility into enhanced audit logs.
+
+Requirements:
+1-Being part of a multi-functional remote team to own our products from top to bottom.
+2-Designing and implementing applications and APIs to improve the experience of managing tenants, teams, and accounts.
+3-Working with other engineering teams to integrate our services with the rest of the Auth0 platform. This may require either working with other teams as an early adopter of new IAM core product features or creating custom IAM solutions for account governance and team management.
+4-Designing and implementing tools to improve the developer experience with working on the Private SaaS platform.
+5-Being a part of the team’s on-call rotation.
+
+Apply-Here: https://jobs.lever.co/auth0/045df92c-ae89-41e3-8548-09271d9c0c70?lever-origin=applied&lever-source%5B%5D=FlexJobs
+
+
+
+(66)URl: https://remote.co//job/ui-ux-front-end-developer/
+Title: UI – UX Front-End Developer at Social Sweethearts
+Posted: Posted 4 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-More than 500 million people who played our games
+2-More than 120 million fans on Facebook
+3-Content and mini-games translated into more than 40 different languages
+
+Requirements:
+1-Implement interactive Game UIs for our new Facebook Instant Games, using modern JavaScript frameworks (like React and Vue).
+2-Help maintain our core product: The Nametests Instant Game on Facebook, with millions of active players globally.
+3-You will be part of a team of technical experts! The team shares the responsibility to work on the public products and to ensure a no-downtime, performant and stable quality gaming experience for millions of users globally.
+4-In your team, the highest goal is quality software, focussing on maintainability, efficiency, performance and solid software architecture.
+
+Apply-Here: https://apply.workable.com/socialsweethearts/j/4D7ECEDCDB/
+
+
+
+(67)URl: https://remote.co//job/wordpress-frontend-engineer-3/
+Title: WordPress Frontend Engineer at Modern Tribe
+Posted: Posted 4 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Strong communication skills
+2-Experience working as part of a remote team
+3-Self-motivated, detail-oriented
+4-Strong organizational skills
+5-A methodical approach to all tasks
+6-Ability to prioritize workloads and meet deadlines
+7-Fluent English speaker
+
+Requirements:
+1-Exceptional HTML & CSS (including experience with Sass or PostCSS and BEM) skills
+2-Mid to advanced level vanilla JavaScript experience (including experience with webpack, babel, and ES2015+ syntax)
+3-Experience working with design systems and design system thinking
+4-Mid to advanced level experience developing WordPress powered sites
+5-Extensive knowledge of modern frontend development standards
+6-Proficiency at local environment setups, including docker
+7-Proficiency in version control, namely GIT
+8-You have experience working in a remote, fast paced, and highly collaborative environment with peers from different backgrounds and skill sets.
+9-You pay attention to and are passionate about the details.
+10-You take pride in and value team success.
+11-You are thoughtful and motivated when it comes to approaching your work. This includes being comfortable with proactively driving feature requirements whether that be identifying gaps and asking questions or helping flesh out additional details.
+
+Apply-Here: https://modern-tribe.breezy.hr/p/c7f010ede237-wordpress-frontend-engineer?source=remoteco
+
+
+
+(68)URl: https://remote.co//job/sr-engineering-manager/
+Title: Sr. Engineering Manager at Ordergroove
+Posted: Posted 4 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Previous experience managing agile/scrum team(s) of different skill levels – you know when to be a cheerleader, coach or player.
+2-You are first and foremost an engineer, passionate about writing reusable code architected towards scalability.
+3-Optimize towards code quality over delivery – you know how to balance between both and your clients.
+4-Passionate about leveraging best-of-breed technology and eager to learn new skills.
+5-Trusted team player and a natural leader.
+6-Expert understanding of Javascript and web application development.
+7-Solid understanding of SDLC, code deployment and content delivery strategy.
+
+Requirements:
+1-React, Angular JS, Web Components, Python/Django, microservices, k8s and Dockers
+2-Designing and building frontend frameworks, CMS’s and SDKs
+3-E-commerce experience
+4-Start-up and SaaS experience strongly preferred
+5-Bachelors or Masters degree in Computer Science, Engineering or a related field
+
+Apply-Here: https://grnh.se/8872b02a2us
+
+
+
+(69)URl: https://remote.co//job/c-developer/
+Title: C++ Developer at Severalnines
+Posted: Posted 4 weeks ago
+Job-Type:  Remote
+
+Responsiblities:
+
+Apply-Here: https://severalnines.com/about-us/careers/developer
+
+
+
+(70)URl: https://remote.co//job/front-end-developer-70/
+Title: Front-End Developer at M+R
+Posted: Posted 1 month ago
+Job-Type:  Remote
+
+Responsiblities:
+1-
+
+Work that is meaningful. We only work with clients who are changing the world. And, we say no to clients if we don’t believe in their cause or if we can’t help them.
+Colleagues you can count on. Kind, dedicated, passionate people who bring the smarts, get things done, and help you to do your best, too.
+
+
+2-Work that is meaningful. We only work with clients who are changing the world. And, we say no to clients if we don’t believe in their cause or if we can’t help them.
+3-Colleagues you can count on. Kind, dedicated, passionate people who bring the smarts, get things done, and help you to do your best, too.
+
+Requirements:
+1-Work that is meaningful. We only work with clients who are changing the world. And, we say no to clients if we don’t believe in their cause or if we can’t help them.
+2-Colleagues you can count on. Kind, dedicated, passionate people who bring the smarts, get things done, and help you to do your best, too.
+
+Apply-Here: https://jobs.lever.co/mrss/7bb912b6-fefb-4b36-9ce1-5f35ecce75bd
+
+
+
+(71)URl: https://remote.co//job/web-developer-31/
+Title: Web Developer at Soar Streaming
+Posted: Posted 1 month ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Drive the creation and iteration of Soar’s web portal
+2-Deliver an intuitive and interactive web application through collaboration with our stakeholders
+3-Perform technical architecture for our web properties and integration
+4-Monitor end-user usage of web portal and benchmark performance
+5-Develop functional and technical requirements, system configuration, data integrity and all system-related policies and procedures
+
+Requirements:
+1-Experience with React
+2-Experience with programming languages such as HTML, CSS, JavaScript and TypeScript
+3-Experience with AWS, GCP or Microsoft Azure
+4-Experience with Firebase
+5-Experience with developing quality web sites
+6-Ability to transform end-user needs into technical and functional requirements
+7-Experience with project management tools such as Confluence, Jira, GitHub, Miro and Slack
+8-Experience working in an agile environment
+
+Apply-Here: https://soar.breezy.hr/p/9d2e5fd80f82-web-developer
+
+
+
+(72)URl: https://remote.co//job/full-stack-web-developer-21/
+Title: Full Stack Web Developer at Third and Grove
+Posted: Posted 1 month ago
+Job-Type:  Remote
+
+Responsiblities:
+1-100% employer paid health insurance
+2-Paid vacation + sick time
+3-Flexible hours
+4-Annual company retreat
+5-We will pay for you to get certified in technologies we use.
+6-Professional development stipend (after 1 year)
+7-401k
+
+Requirements:
+1-3 years minimum experience with Drupal. Shopify/Wordpress/React is a plus.
+2-You don’t mind talking to people
+3-Team player
+4-Experience with Git
+5-Eligible to work in the US
+
+Apply-Here: https://thirdandgrove.applytojob.com/apply/wX3GK5SxnL/Full-Stack-Web-Developer?source=DIREC
+
+
+
+(73)URl: https://remote.co//job/software-engineer-backend-8/
+Title: Software Engineer, Backend at Flockjay
+Posted: Posted 1 month ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Collaborate with our team to build, test, and ship the consumer-facing product features and internal tools that power nearly all aspects of the business and help us to grow & scale
+2-Make important architectural decisions that will help shape and scale our APIs and systems (platform, personalization, community, growth, education, certifications) as our company grows
+3-Bring a sense of ownership, demonstrate craftsmanship, enjoy collaboration, and have the drive to make an impact
+4-Help develop & foster our engineering culture through thoughtful mentorship, knowledge sharing, and demonstrative application of technical best practices
+5-Design, test, and ship great code every day
+
+Requirements:
+1-3+ years of relevant software engineering experience building web applications, bonus points if at a high-growth startup
+2-Strong knowledge of our core technologies: Python, Django, AWS
+3-Solid understanding of software engineering best practices (coding standards, code reviews, testing, continuous integration)
+4-Excitement for full ownership of projects and ability to take a project from scoping requirements through actual launch
+5-Product sense and a user-orientated focus
+6-Passion for education and access to economic opportunity for people from non-traditional and underrepresented backgrounds
+
+Apply-Here: https://jobs.lever.co/flockjay/e3367379-4214-415a-ae20-c885060c68d6
+
+
+
+(74)URl: https://remote.co//job/front-end-developer-69/
+Title: Front End Developer at Verikai
+Posted: Posted 1 month ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Own the user experience for the product
+2-Collaborate with the design, product and back-end teams, and be able to understand the requirements in detail, and to pick up where they are leaving off.
+3-Work closely with the engineering, UX/design, and product team to identify customer needs and help create production ready software to solve them.
+4-Implement features, bug fixes, and other improvements to the application.
+5-Follow best practices to ensure that improvements to the application occur quickly, are scalable and reliable.
+6-Identify areas of technical debt and partner with technology leadership to prioritize solutions.
+7-Improve the overall quality, performance, and stability of frontend, including build process.
+
+Requirements:
+1-Bachelor’s degree or higher in Computer Science or a related discipline, or comparable experience
+2-Minimum of 3-5 years of React experience
+3-Strong desire to learn in a fast-paced, technical environment
+4-Hands on experience and strong proficiency knowledge of languages/tools such as Express.js, MySQL, AWS Amplify, npm, Yarn, and Git/BitBucket
+5-High proficiency with development tools and workflows
+6-Strong self-management, with the ability to comfortably identify, set and meet their own priorities
+7-Demonstrated experience meeting deadlines in a fast-paced environment consistently, with the ability to communicate when there are blocks or challenges to deadlines
+8-Team orientation, with the ability to identify gaps and fill them proactively
+9-Strong communication skills, including experience in a Slack-first environment and the ability to regulate when it is needed and appropriate to ask for help vs. self-manage
+
+Apply-Here: https://boards.greenhouse.io/verikai/jobs/4559710003
+
+
+
+(75)URl: https://remote.co//job/full-stack-engineer-40/
+Title: Full-Stack Engineer at Tribe Dynamics
+Posted: Posted 1 month ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Brainstorm with the product team to spec out scalable solutions to real business problems
+2-Develop efficient and maintainable code in Python and JavaScript with Vue.js
+3-Design and implement data models utilizing Django and PostgreSQL
+4-Build scalable services across Heroku and AWS
+5-Apply great software development practices and actively contribute to production code, reviews, and tests
+6-Help build the next generation of data products at Tribe
+
+Requirements:
+1-Knowledge of Industry Standards – You have experience working with a modern full stack such as Vue.js, React, Python, or Django
+2-Constant Learner – You are motivated by solving complex technical problems, and have a drive to continuously learn and teach others
+3-Cross-functional – You have experience working with Product Teams to envision and ship solutions
+4-Remote Friendly – You have an interest or experience working with remote team members. If you prefer an office, you can later choose to work out of our hub in SF, but we are a remote-first company
+
+Apply-Here: https://jobs.lever.co/tribedynamics/d762ea5f-c13b-4066-b96a-fe80d3d6decb
+
+
+
+(76)URl: https://remote.co//job/ruby-on-rails-engineer-6/
+Title: Ruby on Rails Engineer at Aha
+Posted: Posted 1 month ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Is experienced in Ruby-on-Rails
+2-Wants to work on a major aspect of product functionality from back-end algorithms through to the user interface
+3-Wants to be great and work in a fast-moving, online environment where the end-user is key
+4-Has a computer science degree or demonstrated experience solving challenging CS problems
+
+Requirements:
+1-Can work at a fast-paced company where the feedback cycle is measured in hours rather than weeks
+2-Has a “get it done” attitude and a background of delivering superb work again and again
+3-Is seeking a career-defining opportunity and a proven, results-oriented team that has sold multiple software companies
+
+Apply-Here: https://www.aha.io/company/careers/current-openings/rails-engineer-remote
+
+
+
+(77)URl: https://remote.co//job/senior-backend-engineer-collaboration-and-reporting-infrastructure/
+Title: Senior Backend Engineer – Collaboration and Reporting Infrastructure at Netflix
+Posted: Posted 1 month ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Enjoy collaborating with teammates and technical partners across functional teams and have excellent communication skills
+2-Take end-to-end ownership of major features and components: from inception to deployment
+3-Have strong demonstrable knowledge in Backend languages (ex. Java, Go, Python, Ruby)
+4-Build testable, highly-available applications and services with monitoring and alerting
+5-Have a good understanding of concepts like concurrency, parallelism, event driven architecture
+6-Experience with REST-ful APIs for internal and external products
+7-Passionate about teaching and empowering your colleagues and stakeholders
+
+Requirements:
+1-Experience with technologies like Spring, Cassandra, Redis, Kafka, Elasticsearch
+2-Building cloud applications (ex. AWS, Google Cloud, Microsoft Azure)
+
+Apply-Here: https://jobs.netflix.com/jobs/93058276
+
+
+
+(78)URl: https://remote.co//job/senior-software-engineer-frontend-3/
+Title: Senior Software Engineer – Frontend at Khan Academy
+Posted: Posted 1 month ago
+Job-Type:  Remote
+
+Responsiblities:
+1-Take on world-changing challenges guided by our Engineering Principles some of which have never been solved before.
+2-Work on code that is used by millions of monthly active learners from all over the .
+3-Model problems, then design, write, test and release code to solve them!
+4-Collaborate with your peers via code reviews to level up yourself and others, to improve your ability to provide effective feedback, and to achieve higher quality code.
+5-Ship products with a cross-functional team of engineers, designers, analysts and product managers.
+6-Contribute to open source! We open source, and we give back to the community whenever we can.
+7-Build using technology that is best suited to solving problems for our learners. Currently, we build with JavaScript, React, Redux, GraphQL, Python, Go, and we adopt new technologies when they’ll help us better achieve our goals.
+8-Develop accessible web products that are joyful for users of all ability types.
+
+Requirements:
+1-At least 5 years experience building world-class product experiences for an interactive web-app
+2-Strong technical project management skills, as our Senior Software Engineers often lead projects.
+3-Experience building and maintaining complex software. You’ll join us in writing clean, maintainable software that solves hard problems. You’ll write testable, quality code. You’ll push the team and the mission forward with your contributions.
+4-Strong communication, thoughtfulness, and desire to give and receive regular feedback
+5-Empathy for learners around the world. You love learning and are excited about helping others learn to love learning. You’re motivated to learn new things and share what you learn with the world.
+6-Excitement about helping Khan Academy bring a free, world-class education to the world.
+
+Apply-Here: https://boards.greenhouse.io/khanacademy/jobs/3132268
+
+
+
+(79)URl: https://remote.co//job/full-stack-engineer-39/
+Title: Full Stack Engineer at Kaplan
+Posted: Posted 1 month ago
+Job-Type:  Remote
+
+Responsiblities:
+1-We are seeking to hire a Full Stack Engineer to join a small team of developers creating simulation-based products for medical and nursing education and test prep.
+2-We will consider qualified candidates at all levels of experience. You will take on projects to extend the current products and to contribute to entirely new products, all designed to educate and train medical professionals.
+3-Each developer on the team has a high degree of design autonomy and we work closely together to assure that we’re creating the right solution for our customers.
+
+Requirements:
+1-Development of new features on the back-end and front-end of our medical simulation system
+2-Working closely with the other developers to design enhancements and features as requested by our product management process
+3-Contributing to design and code reviews
+
+Apply-Here: https://ghc.wd1.myworkdayjobs.com/KTP_Careers/job/RemoteNationwide-USA/Full-Stack-Engineer_JR209703
+
+
+
