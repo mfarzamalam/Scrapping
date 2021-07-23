@@ -1,2 +1,2 @@
 # Scrapping
-Learning how to scrape
+Learning how to scrape with BeautifulShop
